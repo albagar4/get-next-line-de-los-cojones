@@ -1,0 +1,6 @@
+Durante el vuelo, los insectos suelen realizar un movimiento de bateo (o movimiento vertical de las alas) unido a otro de torsión, 
+como consecuencia de las fuerzas aerodinámicas y de inercia que actúan sobre las alas.
+
+En el caso de los insectos, las alas se mueven por músculos longitudinal y verticales 
+situados en el tórax, de tal manera que al contraer de forma secuencial dicha musculatura, 
+se consigue subir y bajar las alas.
